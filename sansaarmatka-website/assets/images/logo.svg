@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Sansaar Matka logo">
+  <defs>
+    <linearGradient id="g" x1="18" x2="110" y1="18" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffc247"/>
+      <stop offset=".45" stop-color="#fd6b19"/>
+      <stop offset="1" stop-color="#d71920"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="24" fill="#161413"/>
+  <circle cx="64" cy="64" r="44" fill="url(#g)"/>
+  <path d="M40 78c10 11 38 11 48 0 7-8 1-18-12-21 11-7 8-23-12-23S41 50 52 57c-13 3-19 13-12 21Z" fill="#fff8f1"/>
+  <path d="M50 75c8 5 20 5 28 0" fill="none" stroke="#161413" stroke-width="7" stroke-linecap="round"/>
+</svg>
